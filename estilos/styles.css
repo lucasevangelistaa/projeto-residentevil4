@@ -105,3 +105,7 @@ footer > p > a {
     text-decoration: none;
     font-weight: bold;
 }
+footer > p > a:hover {
+    text-decoration: underline;
+    color: rgba(255, 255, 255, 0.699);
+}
